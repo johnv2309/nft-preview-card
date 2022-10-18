@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Repository: [Github](https://github.com/johnv2309/nft-preview-card)
-- Solution: [Frontend Mentor](https://your-solution-url.com)
+- Solution: [Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-with-mobilefirst-workflow-and-flexbox-FSAT0I-BgD)
 - Live Site: [Netlify](https://johnv2309-nft-preview-card.netlify.app/)
 
 ## My process
