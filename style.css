@@ -62,15 +62,12 @@ body {
   padding: 1.15rem;
 }
 
-.card-image a {
+.card-image figure {
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   border-radius: 10px;
-  font-size: 0;
-  line-height: 0;
-  color: transparent;
 }
 
 .main-img {
@@ -84,7 +81,7 @@ body {
   visibility: hidden;
 }
 
-.card-image:hover a {
+.card-image:hover figure {
   background-color: var(--cyan);
 }
 
