@@ -4,6 +4,7 @@
   --blue-400: hsl(215, 32%, 27%);
   --blue-700: hsl(216, 50%, 16%);
   --blue-900: hsl(217, 54%, 11%);
+  --black-700: hsl(0, 0%, 7%);
   --white: hsl(0, 0%, 100%);
   --main-font: "Outfit", sans-serif;
 }
@@ -41,6 +42,16 @@ a:active {
   color: var(--cyan);
 }
 
+::-moz-selection {
+  /* Code for Firefox */
+  background-color: var(--blue-400);
+  margin: 1rem;
+}
+
+::selection {
+  background-color: var(--blue-400);
+}
+
 /* Layout */
 body {
   background-color: var(--blue-900);
@@ -55,6 +66,7 @@ body {
   height: 550px;
   width: 320px;
   border-radius: 8px;
+  box-shadow: 8px 8px 24px var(--black-700);
 }
 
 .card {
