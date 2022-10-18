@@ -29,7 +29,7 @@ Users should be able to:
 
 - Repository: [Github](https://github.com/johnv2309/nft-preview-card)
 - Solution: [Frontend Mentor](https://your-solution-url.com)
-- Live Site: [Netlify](https://john.com)
+- Live Site: [Netlify](https://johnv2309-nft-preview-card.netlify.app/)
 
 ## My process
 
